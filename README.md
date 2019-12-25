@@ -1,1 +1,1 @@
-## DEPRECATED, see https://github.com/node-gitlab/node-gitlab
+## DEPRECATED, see https://github.com/jdalrymple/gitbeaker
